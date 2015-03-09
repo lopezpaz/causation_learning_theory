@@ -1,0 +1,6 @@
+executable     = /usr/bin/python2.7
+request_memory = 4096 
+request_cpus   = 16
+stream_output  = True
+stream_error   = True
+queue

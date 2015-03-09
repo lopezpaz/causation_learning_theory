@@ -1,0 +1,10 @@
+executable     = /usr/bin/python2.7
+arguments      = predict_dag.py
+error          = predict_dag.err
+output         = predict_dag.out
+log            = predict_dag.log
+request_memory = 4096 
+request_cpus   = 64
+stream_output  = True
+stream_error   = True
+queue
